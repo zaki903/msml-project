@@ -1,0 +1,21 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Age",
+      "Gender",
+      "Avg_Daily_Screen_Time_hr",
+      "Primary_Device",
+      "Exceeded_Recommended_Limit",
+      "Educational_to_Recreational_Ratio",
+      "Urban_or_Rural",
+      "Anxiety",
+      "Eye Strain",
+      "Obesity Risk",
+      "Poor Sleep"
+    ],
+    "data": [
+      [16, 1, 5.5, 1, 0, 0.3, 1, 1, 1, 0, 1],
+      [10, 0, 3.2, 3, 1, 0.8, 0, 0, 0, 0, 0]
+    ]
+  }
+}
